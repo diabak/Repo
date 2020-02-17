@@ -1,0 +1,2 @@
+# Repo
+nauka gita szkolenie
